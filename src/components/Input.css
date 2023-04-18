@@ -1,0 +1,21 @@
+.input-grid {
+    height: 10rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+
+    padding: 16px;
+}
+
+.result {
+    flex: 1;
+    font-size: 25px;
+    color: rgb(94, 216, 216);
+}
+
+.text {
+    flex: 1;
+    font-size: 15px;
+    color: rgb(94, 216, 216);
+}
